@@ -1,0 +1,5 @@
+spring.liquibase.change-log: db/changelog.xml
+
+logging.level:
+  org.hibernate.SQL: "DEBUG"
+  #org.hibernate.type: "TRACE"
